@@ -1,7 +1,7 @@
 # Личный проект «Девайс»
 
 * Студент: [Андрей Чаплыгин](https://up.htmlacademy.ru/htmlcss-individual/1/user/115578).
-* Наставник: `Неизвестно`.
+* Наставник: [Андрей Чаплыгин](https://up.htmlacademy.ru/htmlcss-individual/1/user/1224405).
 
 ---
 
